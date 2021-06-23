@@ -56,7 +56,7 @@ function Reward () {
                         </div>
                         <div className="block-section">
                             <h4>Date</h4>
-                            <p>23.04.2021</p>
+                            <p>23.04.2022</p>
                         </div>
                         <div className="block-section">
                             <h4>Reward</h4>
